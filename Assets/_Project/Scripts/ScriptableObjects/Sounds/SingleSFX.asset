@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ad333b5c0b039247bc3d0bc113927d9, type: 3}
+  m_Name: SingleSFX
+  m_EditorClassIdentifier: 
+  _sfxSingle:
+  - _name: UIClick
+    _clip: {fileID: 8300000, guid: a2fa258495c1b854eadbcbacc007d404, type: 3}
+  - _name: Drug
+    _clip: {fileID: 8300000, guid: a5fb349958f54184e9d48199bfa8e4ee, type: 3}
+  - _name: MetallHit
+    _clip: {fileID: 8300000, guid: 4ad8a6b4c2219c34198b57c7104d5137, type: 3}
+  - _name: SlenderScreamer
+    _clip: {fileID: 8300000, guid: ff010a206e321124dbea0b63ffea736f, type: 3}
+  - _name: MiddleCreepy
+    _clip: {fileID: 8300000, guid: 8e9c2fbee2d6bae47bdd49227fb7f53a, type: 3}

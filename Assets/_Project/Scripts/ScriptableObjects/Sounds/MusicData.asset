@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 061ffe9e411a7df4e8f03933ee697b21, type: 3}
+  m_Name: MusicData
+  m_EditorClassIdentifier: 
+  _music:
+  - _name: MainMenu
+    _clip: {fileID: 8300000, guid: 283244757eacd1f45be66afa2b076b86, type: 3}
+  - _name: GameplayAmbient
+    _clip: {fileID: 8300000, guid: 3a9d7b810d8510142807ac4e84838e6e, type: 3}
+  - _name: PackagesOne
+    _clip: {fileID: 8300000, guid: ccde2cf0fd9510840bc5610c194b5f3e, type: 3}
+  - _name: PackagesTwo
+    _clip: {fileID: 8300000, guid: 4c8008cf3ec90e347a5590c07ee1c69c, type: 3}
+  - _name: PackagesThree
+    _clip: {fileID: 8300000, guid: b90d1dcece2ad5a46ba6318a9f36223c, type: 3}
+  - _name: PackagesFour
+    _clip: {fileID: 8300000, guid: 6390db545dd71d3419e1d571aaa00034, type: 3}
+  - _name: SlenderApproximation
+    _clip: {fileID: 8300000, guid: 598b56279c77d074e84da5ae4499d001, type: 3}
